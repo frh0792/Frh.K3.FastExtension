@@ -57,7 +57,7 @@ namespace Frh.K3.FastExtension.BeExtension
 
                 DynamicFormShowParameter showParam = new DynamicFormShowParameter
                 {
-                    FormId = FormID.WJ_BillExtension,
+                    FormId = FormID.WJ_ExtensionUI,
                     ParentPageId = pageId
                 };
                 showParam.CustomComplexParams.Add("simpleExtension", simpleExtension);

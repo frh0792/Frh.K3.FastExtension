@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
  
-namespace Frh.K3.FastExtension.Extension
+namespace Frh.K3.FastExtension.ExtensionUI
 {
     /// <summary>
     /// 定义Presenter接口，用于解耦

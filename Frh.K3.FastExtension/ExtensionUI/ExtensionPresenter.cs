@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 using System.Collections.Generic;
 
 
-namespace Frh.K3.FastExtension.Extension
+namespace Frh.K3.FastExtension.ExtensionUI
 {
     class ExtensionPresenter : IExtensionPresenter
     {

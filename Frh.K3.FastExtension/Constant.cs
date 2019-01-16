@@ -16,8 +16,8 @@ namespace Frh.K3.FastExtension
 
         public class FormID
         {
-            public const string WJ_Extension = "WJ_SimpleExtension";//基础资料，扩展结构
-            public const string WJ_BillExtension = "WJ_BillExtension";//单据扩展 动态表单
+            public const string WJ_Extension = "WJ_Extension";//基础资料，扩展结构
+            public const string WJ_ExtensionUI = "WJ_ExtensionUI";//单据扩展UI展示 动态表单 
         }
     }
 }

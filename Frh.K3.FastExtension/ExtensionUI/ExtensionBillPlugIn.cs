@@ -10,9 +10,11 @@ using Kingdee.BOS.Orm.DataEntity;
 using Kingdee.BOS.ServiceHelper;
 using Kingdee.BOS.Util;
 using System;
+using System.ComponentModel;
 
-namespace Frh.K3.FastExtension.Extension
+namespace Frh.K3.FastExtension.ExtensionUI
 {
+    [Description("扩展单据动态表单")]
     public class ExtensionBillPlugIn : AbstractDynamicFormPlugIn, IExtensionView
     {
         private IExtensionPresenter presenter;

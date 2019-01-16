@@ -79,9 +79,9 @@
     <Compile Include="BeExtension\IBeExtensionContract.cs" />
     <Compile Include="Constant.cs" />
     <Compile Include="ExtensionItem.cs" />
-    <Compile Include="Extension\ExtensionBillPlugIn.cs" />
-    <Compile Include="Extension\ExtensionPresenter.cs" />
-    <Compile Include="Extension\IExtensionContract.cs" />
+    <Compile Include="ExtensionUI\ExtensionBillPlugIn.cs" />
+    <Compile Include="ExtensionUI\ExtensionPresenter.cs" />
+    <Compile Include="ExtensionUI\IExtensionContract.cs" />
     <Compile Include="IBasePresenter.cs" />
     <Compile Include="IBaseView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
