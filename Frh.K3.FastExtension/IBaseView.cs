@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Frh.K3.FastExtension
 {
-    public class Class1
+    public interface IBaseView<T>
     {
+        void SetPresenter(T presenter);
     }
 }
